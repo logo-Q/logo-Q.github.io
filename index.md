@@ -1,4 +1,4 @@
-## 回到未来（老狗版）
+## 回到未来
 
 You can use the [editor on GitHub](https://github.com/Q-logo/Q-logo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
