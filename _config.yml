@@ -2,9 +2,9 @@
 title: logo
 subtitle: 
 description: 一定存在只有你才能做到的事
-creator: <a href="http://Q-logo.github.io">@Q-logo</a>
+creator: <a href="http://logo-Q.github.io">@Q-logo</a>
 
-url: "https://github.com/Q-logo"
+url: "https://github.com/logo-Q"
 
 permalink: /:year/:month/:title/
 
@@ -21,7 +21,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'https://github.com/Q-logo'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/logo-Q'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -35,7 +35,7 @@ comment:
     # duoshuo: 
     
 # Social
-
+social:
 
 # Google Analytics
 ga:
