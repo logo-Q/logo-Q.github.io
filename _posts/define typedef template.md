@@ -4,7 +4,6 @@
 template<class T>
 typedef struct NODE
 {
-	//string name;
 	T data;
 	struct NODE *next;
 } LinkList;
@@ -16,7 +15,6 @@ typedef struct NODE
 template<class T>
 struct NODE
 {
-	//string name;
 	T data;
 	struct NODE *next;
 };
