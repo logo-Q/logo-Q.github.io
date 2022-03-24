@@ -23,4 +23,4 @@ struct NODE
 typedef NODE<int> LinkList;
 ```
 
-上面为正确的哦用法，并且对于typedef必须定义在模板结构的下面。
+上面为正确的用法，并且对于typedef必须定义在模板结构的下面。
