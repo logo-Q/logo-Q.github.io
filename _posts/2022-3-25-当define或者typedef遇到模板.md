@@ -1,5 +1,3 @@
-# 当define或者typedef遇到模板
-
 ```cpp
 template<class T>
 typedef struct NODE
