@@ -1,4 +1,4 @@
-```cpp
+```c++
 template<class T>
 typedef struct NODE
 {
@@ -9,7 +9,7 @@ typedef struct NODE
 
 这里的代码会报错，因为define和typedef不允许定义模糊的类型，如果要使用，一定要显式指明数据类型。
 
-```cpp
+```c++
 template<class T>
 struct NODE
 {
