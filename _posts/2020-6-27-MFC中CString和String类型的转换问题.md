@@ -2,6 +2,8 @@
 
 ```c++
 CStringA str;
+
 str1 =string1;
+
 cstring1 = str1.GetBuffer();
 ```
